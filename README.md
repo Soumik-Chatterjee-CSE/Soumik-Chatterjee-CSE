@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumik-chatterjee-cse&" alt="soumik-chatterjee-cse" /></p>
 
-![snake gif](https://github.com/Soumik-Chatterjee-CSE/Soumik-Chatterjee-CSE/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Soumik-Chatterjee-CSE/Soumik-Chatterjee-CSE/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
