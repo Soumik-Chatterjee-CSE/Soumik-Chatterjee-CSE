@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aec.cse.soumikchatterjee@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/nIRNv](https://shorturl.at/aNzIk)
+- 📄 Know about my experiences [https://shorturl.at/nIRNv](https://shorturl.at/Y9beg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
